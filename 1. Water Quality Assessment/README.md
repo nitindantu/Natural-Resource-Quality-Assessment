@@ -12,3 +12,5 @@ The system does not take one drop of water against the traditional techniques wh
 # Demo
 https://github.com/nitindantu/Natural-Resource-Quality-Assessment/assets/41870240/333f0e61-1fb1-408c-967b-bab5a77d5364
 
+# Conclusion
+To make it simple, we could measure the accurate water quality parameters with ease and accurate. This would greatly help the government or the concerned party to act accordingly to improve the quality through necessary actions. Also, the entire process is real-time and there is no delay. More importantly, the usage of the USV is simple and compact. It will not require a lot of learning or practice. The USV is inexpensive compared to traditional techniques. The product is smart and it gets the water better, clearer, and more usable.
